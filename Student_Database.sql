@@ -1,6 +1,3 @@
-
-
-
 -- install mariadb
 brew install mariadb
 brew cleanup mariadb
@@ -9,14 +6,10 @@ brew services restart mariadb
 Mysql -- login mariadb
 
 
-
-
 -- Creating a database
-
 SHOW DATABASES;
 CREATE DATABASE STUDENT;
 USE STUDENT;
-
 
 -- Table: Student + data insert
 CREATE TABLE STUDENT (
@@ -82,7 +75,6 @@ CREATE TABLE PERFORMANCE(
     FOREIGN KEY (CourseId) references Course(ID)
 );
 
-
 INSERT INTO PERFORMANCE (ID, StudentId, CourseId, ExamScore, Support)
 VALUES(1, 1001, 1, 78, 'No');
 
@@ -140,10 +132,6 @@ SELECT
     CourseName AS 'Course Name',
     ExamBoards AS 'Exam Boards',
     TeacherName AS 'Teacher Name'
-
 FROM PERFORMANCE
-
-LEFT JOIN STUDENT ON PERFORMANCE.StudentId = STUDENT.ID
-LEFT JOIN COURSE ON PERFORMANCE.CourseId = Course.ID;
-
-
+    LEFT JOIN STUDENT ON PERFORMANCE.StudentId = STUDENT.ID
+    LEFT JOIN COURSE ON PERFORMANCE.CourseId = Course.ID;
