@@ -356,10 +356,20 @@ Kazil, J., & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly Media, Inc. 
 
 
 
-## Unit 4
-text goes here.
-## Unit 5
-text goes here.
+## Unit 4: Data Cleaning and Transformation
+The topic of this Unit was cleaning and transforming data. Huxley et al. (2020) describe data cleaning as the process of quantitatively checking the data to ensure accurate information. In addition, this unit also shows and analyses the steps of the data management pipeline: capturing raw data, data cleaning, data integration, database design, data analysis and data presentation/visualisation (EMC, 2015).
+
+In this Unit I was able to deepen my knowledge of the various aspects of data cleaning and its importance in the data management pipeline. Furthermore, I completed the data management pipeline test.
+
+### REFERENCES
+EMC E. (2015) Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data. Wiley Professional Development Available via VitalSource Bookshelf [Accessed 12 April 2023].
+
+Huxley, K. (2020) ‘Data Cleaning’, in: Atkinson, P. (eds) SAGE Research Methods Foundations. London: SAGE Publications Ltd. Available from: [https://dx.doi.org/10.4135/9781526421036842861]() [Accessed 28 January 2023].
+
+
+## Unit 5: Data Cleaning and Automating
+During this Unit I learned data cleaning and automatization with Python; how to load data from web pages, web scraping and how to perform single data cleaning on real live data. Furthermore, our team began working together on the team projects. Additionally, I performed several small data-cleaning tasks, see GitHub: [dataset 1](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Data-Cleaning%20house-prices.ipynb), [dataset 2](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Data-Cleaning-child-labour.ipynb).
+
 ## Unit 6
 text goes here.
 ## Unit 7
