@@ -389,7 +389,21 @@ Units 6 and 7 are closely linked together regarding databases and how to normali
 
 
 ## Unit 8
-text goes here.
+This Unit covers the compliance and regulatory framework for managing data and emphasises the importance of standards, regulations, policy, controls, and the law. Standards, such as ISO27002, define a set of guidelines for information security that assist organisations in implementing, sustaining, and enhancing their information security management system (Cole, N.D.). Information security policies provide a framework for controlling the management of information and computer networks and can also be used for showing compliance with the law (isms.online). Abouelmehdi et al. (2017) recommend comprehensive data security in healthcare through the following steps: Authentication (controlled access), Encryption (prevent unauthorized access of sensitive data), Data Masking (replace sensitive data with unidentifiable values) and access control; this approach can be used for other areas as well in order to achieve a high level of data security.
+
+I learned a lot from this Unit, and by studying the provided literature, I was able to fully comprehend the complexity of the subject.
+
+### REFERENCES
+Abouelmehdi, K. Beni-Hssane, A. Khaloufi, H. & Saadi, M. (2017) Big data security and privacy in healthcare: A Review. Procedia Computer Science. 113: 73-80. DOI: 10.1016/j.procs.2017.08.292
+
+Cole, B. (N.D.) ISO 27002 (International Organization for Standardization 27002). Available from: [https://www.techtarget.com/searchsecurity/definition/ISO-27002-International-Organization-for-Standardization-27002](https://www.techtarget.com/searchsecurity/definition/ISO-27002-International-Organization-for-Standardization-27002) [Accessed 12 April 2023]
+
+isms.online (N.D.) ISO 27002:2022, Control 5.1 – Policies for Information Security - ISO 27002:2022 Revised Controls. Available from: [https://www.isms.online/iso-27002/control-5-1-policies-for-information-security/](https://www.isms.online/iso-27002/control-5-1-policies-for-information-security/) [Accessed 12 April 2023]
+
+Limmroth, S. (2020) Policies and Procedures: The Foundation for a Comprehensive HIPAA Program. Journal of Health Care Compliance 22(2), 41–46.
+
+
+
 ## Unit 9
 text goes here.
 ## Unit 10
