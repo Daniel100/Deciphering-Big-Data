@@ -4,7 +4,7 @@
 1. Summary - Collaborative Discussion
 2. Team Report
 3. Executive Summary
-4. Artefacts
+4. Artefacts Unit 1: Big Data
 
 ## Summary - Collaborative Discussion 1: Internet of Things (IoT)
 
@@ -291,8 +291,6 @@ IBM QRADAR - Kaif Integration (no date) www.intellas.biz. Available at: [https:/
 
 
 ## Unit 1: Big Data
-
-## Unit 2
 This Unit covered big data and its associated technologies, concepts for data management and key characteristics. Big Data can be understood by its key characteristics: data grows exponentially, varied formats, boundlessness as well as high complexity and is often referred to as the V’s of Big Data (De Mauro et al., 2016). The V’s stand for: Volume (the data growth exponentially), Velocity (transmit data through the internet), Variety (different data types) and Veracity (data quality and availability) (Market Trends, 2021). This Unit helped me to understand the challenges that Big Data brings, especially in terms of data cleaning, data security and data privacy. Furthermore, I wrote an initial post about the data collection process Collaborative [Discussion 1](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Summary%20-%20Collaborative%20Discussion%201.pdf) .
 
 ### REFERENCES
@@ -300,8 +298,8 @@ De Mauro, A., Greco, M. & Grimaldi, M. (2016), "A formal definition of Big Data 
 
 Market Trends (2021) The Four V’s of Big Data – What is big data? Analytics Insight. Available from: [https://www.analyticsinsight.net/the-four-vs-of-big-data-what-is-big-data/]() [Accessed 12 April 2023].
 
-
-
+## Unit 2: Big Data
+text goes here.
 ## Unit 3
 text goes here.
 ## Unit 4
