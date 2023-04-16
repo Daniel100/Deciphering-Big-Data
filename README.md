@@ -415,8 +415,19 @@ Stackscale (2022) 10 popular database management systems (DBMS). Available from:
 
 
 
-## Unit 10
-text goes here.
+## Unit 10 APIs
+The proliferation of APIs (application programming interfaces) on the web - with over 10.000 APIs published by companies for consumption in 2013, was 4 times more than in 2010 (Cooksey, 2014). As a result, possessing a working understanding of APIs has become increasingly relevant to careers in the software industry (Cooksey, 2014). Unit 10 illustrates how API simplifies communication and security requirements as well as how to establish a robust functionality of APIs.
+
+The team and I specified the API security requirements for an API from the Federal Reserve Bank of St. Louis that gather gross domestic product data; see here.
+
+The API security requirements can be found on GitHub [here](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/API_security_brief.pdf), and the Python code [see here](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/API.ipynb).
+
+### REFERENCES
+
+Cooksey, B. (2014) An Introduction to APIs. _zapier. Available from: [https://zapier.com/learn/apis/chapter-1-introduction-to-apis/](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/) [Accessed 13 April 2023].
+
+
+
 ## Unit 11
 text goes here.
 ## Unit 12
