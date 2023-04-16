@@ -4,7 +4,21 @@
 1. Summary - Collaborative Discussion
 2. Team Report
 3. Executive Summary
-4. Artefacts Unit 1: Big Data
+4. API SECURITY REQUIREMENTS
+5. Artefacts Unit 1: Big Data
+6. Artefacts Unit 2: Data Types
+7. Artefacts Unit 3: Data Collection and Storage
+8. Artefacts Unit 4: Data Cleaning and Transformation
+9. Artefacts Unit 5: Data Cleaning and Automating
+10. Artefacts Unit 6: Data Design and Normalisation
+11. Artefacts Unit 7: Constructing Normalised Tables and Database Build
+12. Artefacts Unit 8: Compliance and Regulatory Frameworks
+13. Artefacts Unit 9: Database Management System (DBMS)
+14. Artefacts Unit 10: APIs
+15. Artefacts Unit 11: Grandfather-Father-Son backup procedure
+16. Artefacts Unit 12: Future of Big Data Analytics
+
+
 
 ## Summary - Collaborative Discussion 1: Internet of Things (IoT)
 
