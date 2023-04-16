@@ -403,9 +403,18 @@ isms.online (N.D.) ISO 27002:2022, Control 5.1 – Policies for Information Secu
 Limmroth, S. (2020) Policies and Procedures: The Foundation for a Comprehensive HIPAA Program. Journal of Health Care Compliance 22(2), 41–46.
 
 
+## Unit 9: Database Management System (DBMS)
+Unit 9 covered Database Management System (DBMS). This is a crucial system software for creating and managing databases, and it enables end-users to create, protect, read, update, and delete data in a database (Mullins, ND). With the DBMS, data is consistently organised and easily accessible, and it serves as an interface between databases and users or application programs (Mullins, ND). Commonly used databases for relational data are MySQL, MariaDB, Microsoft SQL Server, Oracle DBMS, and PostgreSQL. Examples of semi-structured data (document-oriented) databases include MongoDB, Elasticsearch, and SQLite (Stackscale, 2022).
 
-## Unit 9
-text goes here.
+I am mastering this topic and understand the essential role of DBMS. Furthermore, I developed several databases during this course; see [student database](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database.sql) and [product database](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Product_Database.sql) on GitHub.
+
+### REFERENCES
+Mullins, C.S. (N.D.) database management system (DBMS). TechTarget. Available from: [https://www.techtarget.com/searchdatamanagement/definition/database-management-system](https://www.techtarget.com/searchdatamanagement/definition/database-management-system) [Accessed 12 April 2023].
+
+Stackscale (2022) 10 popular database management systems (DBMS). Available from: [https://www.stackscale.com/blog/popular-database-management-systems/#MongoDB](https://www.stackscale.com/blog/popular-database-management-systems/#MongoDB) [Accessed 13 April 2023].
+
+
+
 ## Unit 10
 text goes here.
 ## Unit 11
