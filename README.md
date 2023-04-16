@@ -445,10 +445,14 @@ entech (2022) Common Backup Strategy Examples, Simplified - Disaster Recovery. A
 Sullivan, D. (2010) The Shortcut Guide to Availability, Continuity, and Disaster Recovery. Realtime Publishers. Available from: [http://www.onstart.net/ca/Assets/shortcut-guide-to-ha-bc.pdf](http://www.onstart.net/ca/Assets/shortcut-guide-to-ha-bc.pdf) [Accessed 8 April 2023].
 
 
+## Unit 12: Future of Big Data Analytics
+Unit 12 covers the future of Big Data Analytics. Industries are investing heavily in big data analytics, and careers in this field are expected to grow. The future of data analytics looks promising, and there are several trends that will shape its development across different industries (Maryville, N.D.).
 
+I learned a lot about this subject by studying the provided literature and through online research. Furthermore, I collected and summarised the tasks performed during Units 1 to 12 and extended my Data Science Portfolio with the Model Deciphering Big Data; you can find a part of my work [here](https://github.com/Daniel100/Deciphering-Big-Data) and my [portfolio](https://daniel100.github.io/eportfolio/project2.html) here.
 
-## Unit 12
-text goes here.
+### REFERENCES
+Maryville, U. (N.D.) Future of Big Data in Business: How Data Analytics Provides Insight. Available from: [https://online.maryville.edu/blog/future-big-data/](https://online.maryville.edu/blog/future-big-data/). [Accessed 13 April 2023].
+
 
 
 
