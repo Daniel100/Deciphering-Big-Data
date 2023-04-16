@@ -298,8 +298,52 @@ De Mauro, A., Greco, M. & Grimaldi, M. (2016), "A formal definition of Big Data 
 
 Market Trends (2021) The Four V’s of Big Data – What is big data? Analytics Insight. Available from: [https://www.analyticsinsight.net/the-four-vs-of-big-data-what-is-big-data/]() [Accessed 12 April 2023].
 
-## Unit 2: Big Data
-text goes here.
+## Unit 2: Data Types
+Data types and formats are the topics in Unit 2. Data types such as Characters, Strings, and Integers among others were introduced, as well as data formats such as structured, semi-structured, quasi-structured and unstructured (Sarkar & Roychowdhury, 2019). I learned a lot about basic data types and advanced data structures. I was also able to develop skills in Python, as a result of this module. See the following example:
+
+```python 
+# WORD COUNT
+
+# the text
+mText = ''' enter a text with serveral lines here '''
+
+# check length and data type
+print('data type: ', type(multiline_text))
+print('length: ', len(multiline_text))
+
+# delete all: punctations
+mtext = mText.replace('\n', '')                            # removes line breaks
+mtext = mtext.lower()
+mtext = mtext.replace('.', '')                                      
+mtext = mtext.replace(';', '')                                      
+mtext = mtext.replace('?', '')                                      
+mtext = mtext.replace('"', ' ')                                     
+mtext = mtext.replace(',', '')                                      
+mtext = mtext.replace("'", '')                                      
+mtext = mtext.replace("!", '')
+mtext = mtext.replace('  ', ' ')
+mtext = mtext.split(' ')
+
+# creatte a list with unique words
+word_count = dict.fromkeys(mtext)
+
+# count the words
+for word in mtext:
+    if word_count[word] is None:
+        word_count[word] = 1
+    else:
+        word_count[word] += 1
+        
+print(word_count)
+
+```
+
+
+
+### REFERENCES
+Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
+
+
 ## Unit 3
 text goes here.
 ## Unit 4
