@@ -344,8 +344,18 @@ print(word_count)
 Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
 
 
-## Unit 3
-text goes here.
+## Unit 3: Data Collection and Storage
+This Unit encompassed data collection and storage. There are many scenarios where data needs to be collected from various sources such as governments, international organisations, education or research, NGOs, scientific data, or crowdsourcing (Kazil & Jarmul, 2016). Fact-checking the collected data is a necessary step in the process because it is important to know if the data is valid (Kazil & Jarmul, 2016). This task of fact-checking can be very time-consuming because it may be necessary to contact the source for verification, use other sources for comparison or investigate the topic further to make sure that the data is valid and well understood (Kazil & Jarmul, 2016). Subsequently, the data needs to be stored appropriately (Kazil & Jarmul, 2016).
+
+I was able to learn a lot about external data sources (as mentioned above) and performed a web scraping task which included data cleaning and fact-checking (see [GitHub](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/web_scraping_gdp.ipynb). Furthermore, I wrote a comprehensive summary of the data collection process - see Collaborative Discussion 1 – The Data Collection Process
+
+Furthermore, I wrote a comprehensive summary of the data collection process - see [Collaborative Discussion 1 – The Data Collection Process](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Summary%20-%20Collaborative%20Discussion%201.pdf).
+
+### REFERENCES
+Kazil, J., & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly Media, Inc. Available via the Vitalsource Bookshelf. [Accessed 05 March 2022].
+
+
+
 ## Unit 4
 text goes here.
 ## Unit 5
