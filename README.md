@@ -370,10 +370,24 @@ Huxley, K. (2020) ‘Data Cleaning’, in: Atkinson, P. (eds) SAGE Research Meth
 ## Unit 5: Data Cleaning and Automating
 During this Unit I learned data cleaning and automatization with Python; how to load data from web pages, web scraping and how to perform single data cleaning on real live data. Furthermore, our team began working together on the team projects. Additionally, I performed several small data-cleaning tasks, see GitHub: [dataset 1](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Data-Cleaning%20house-prices.ipynb), [dataset 2](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Data-Cleaning-child-labour.ipynb).
 
-## Unit 6
-text goes here.
-## Unit 7
-text goes here.
+## Unit 6: Data Design and Normalisation
+This course was about database design as a process for creating a structured representation of data. This involves identifying data and defining relationships (Sarkar & Roychowdhury, 2019). Terms such as tables, attributes, keys, relations, and foreign keys are used in relational database construction (Mayo, 2023). The process of creating a logical database design involves normalisation to eliminate redundancy and inconsistencies and ensures data integrity (Munoz, 2022).
+
+I learned a lot about database design and could apply this knowledge in the team project where I transformed a table (raw data) with student information into the 3rd - see GitHub for [raw table](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database_raw_table.png) , [1st](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database_first%20NF.png) , [2nd](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database_second%20NF.png) and [3rd NF](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database_third%20NF.png) .
+
+### REFERENCES
+Mayo, M. (2023): Database Key Terms, Explained. KDnuggets. Available from: [https://www.kdnuggets.com/2016/07/database-key-terms-explained.html](https://www.kdnuggets.com/2016/07/database-key-terms-explained.html) [Accessed 12 April 2023]
+
+Munoz, A. (2022) Why is Database Normalization so Important? sales layer. Available from: [https://blog.saleslayer.com/why-is-database-normalization-so-important](https://blog.saleslayer.com/why-is-database-normalization-so-important) [Accessed 12 April 2023]
+
+Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
+
+
+## Unit 7: Constructing Normalised Tables and Database Build
+Units 6 and 7 are closely linked together regarding databases and how to normalise tables and transform them into the third normal form. I applied my knowledge to a real-life situation. My starting point was my local machine and a table with raw student data. I set up a database on my local machine (MariaDB) and created a Database and the schema Student; see SQL code on [GitHub](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database.sql) . I subsequently loaded the data into the student database and created an ERD from my database schema; see visualisation on [GitHub](https://github.com/Daniel100/Deciphering-Big-Data/blob/main/Student_Database.svg).
+
+
+
 ## Unit 8
 text goes here.
 ## Unit 9
