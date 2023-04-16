@@ -428,8 +428,25 @@ Cooksey, B. (2014) An Introduction to APIs. _zapier. Available from: [https://za
 
 
 
-## Unit 11
-text goes here.
+## Unit 11: Grandfather-Father-Son backup procedure
+Unit 11 is about Transaction and Recovery. I studied and understood the subject; below is a brief explanation of the Grandfather-Father-Son (GFS) backup strategy.
+
+The Grandfather-Father-Son (GFS) backup strategy is widely utilised by businesses and typically involves three backup cycles: daily, weekly, and monthly (Abwoga, 2020). This strategy is based on the idea of performing a full backup each week (father), differential backups are performed each day (son), and at a certain point in the month, the father backup is promoted to grandfather status and removed from rotation; this method can maintain many recovery points (Sullivan, 2010).
+
+The GFS backup procedure can be less resource-heavy for the large database because it uses incremental backups for the son cycle; incremental backups only capture changes since the last backup, instead of backing up the entire database each time; it significantly reduces the amount of data that needs to be backed up and transferred and thereby reduces resources requirements for backup and restore operations (Sullivan, 2010; entech, 2022).
+
+Furthermore, the team and I finalised the executive summary.
+
+### REFERENCES
+Abwoga, A. (2020) The Grandfather-Father-Son (GFS) Backup Strategy. Backup Ninja. Available from: [https://backup.ninja/news/grandfatherfatherson-gfs-backup-strategy](https://backup.ninja/news/grandfatherfatherson-gfs-backup-strategy) [Accessed 9 April 2023].
+
+entech (2022) Common Backup Strategy Examples, Simplified - Disaster Recovery. Available from: [https://www.entechus.com/blogs/common-backup-strategy-examples-simplified](https://www.entechus.com/blogs/common-backup-strategy-examples-simplified) [Accessed 8 April 2023].
+
+Sullivan, D. (2010) The Shortcut Guide to Availability, Continuity, and Disaster Recovery. Realtime Publishers. Available from: [http://www.onstart.net/ca/Assets/shortcut-guide-to-ha-bc.pdf](http://www.onstart.net/ca/Assets/shortcut-guide-to-ha-bc.pdf) [Accessed 8 April 2023].
+
+
+
+
 ## Unit 12
 text goes here.
 
